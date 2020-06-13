@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "agclientpanel-aa3c5": {
+      "hosting": {
+        "agClientPanel": [
+          "agclientpanel-aa3c5"
+        ]
+      }
+    }
+  }
+}
